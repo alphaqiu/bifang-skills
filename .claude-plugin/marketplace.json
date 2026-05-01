@@ -13,7 +13,7 @@
       "name": "bifang-skills",
       "description": "AI-powered content generation skills",
       "source": "./",
-      "strict": true,
+      "strict": false,
       "skills": [
         "./skills/sense-infographic"
       ]
