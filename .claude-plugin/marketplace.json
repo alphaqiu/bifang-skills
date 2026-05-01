@@ -1,0 +1,22 @@
+{
+  "name": "bifang-skills",
+  "owner": {
+    "name": "alpha",
+    "email": "alphaqiu@gmail.com"
+  },
+  "metadata": {
+    "description": "AI-powered content generation skills",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bifang-skills",
+      "description": "AI-powered content generation skills",
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/sense-infographic"
+      ]
+    }
+  ]
+}
