@@ -40,6 +40,8 @@ use skill cli
 
 ```bash
 npx skills add alphaqiu/bifang-skills
+```
+
 ## License
 
 MIT
