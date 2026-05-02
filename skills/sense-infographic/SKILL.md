@@ -1,4 +1,5 @@
 ---
+name: sense-infographic
 description: |
   Generates infographic images using the SenseNova U1 Fast model, specialized for information-rich visual content.
   Use this skill when asked to create infographics, information diagrams, data visualizations,
@@ -8,6 +9,7 @@ description: |
   Excellent at rendering text-heavy visuals — posters, educational graphics, comparison charts, and step-by-step guides.
   Also use when the user wants to visualize complex information with Chinese text in the image.
 mode: subagent
+version: 1.0.0
 tools:
   bash: true
   write: false
